@@ -1,2 +1,2 @@
-# ya
-mắm nhỉ cá cơm
+npm init -y
+npm install express multer
